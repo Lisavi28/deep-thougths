@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Lisavi28/deep-thougths#readme",
   "devDependencies": {
     "concurrently": "^7.2.2"
+  },
+  "dependencies": {
+    "jwt-decode": "^3.1.2"
   }
 }
